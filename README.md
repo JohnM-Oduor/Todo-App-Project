@@ -19,9 +19,10 @@ This project is a Todo App that demonstrates the use of localStorage in JavaScri
 - Responsive Design: Adjusts for different screen sizes.
 
 ## Technologies Used
-## HTML: Structure of the app.
-## CSS: Styling for the UI.
-## JavaScript: Functionality and localStorage integration.
+- **HTML: Structure of the app.**
+- **CSS: Styling for the UI.**
+- **JavaScript: Functionality and localStorage integration.**
+
 
 ## Usage
 ## Launch the App:
